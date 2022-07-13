@@ -10,9 +10,13 @@ public class FirstTest {
 	static String lasName="Subhash";
 	static int rolenumber=309;
 	
+	/*
+	 * this method is used to login into application
+	 * username should be like "rahul"
+	 * password should be like "test@123"
+	 */
 	public void login(String username, String password)
 	{
-		System.out.println("this method will be used to login ");
 		System.out.println("username is "+username);
 		System.out.println("password is "+password);
 		System.out.println("Logged into application successfully ");
