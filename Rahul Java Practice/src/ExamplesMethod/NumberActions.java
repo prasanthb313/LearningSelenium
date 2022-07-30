@@ -10,6 +10,10 @@ public class NumberActions {
 	{
 		int c=a+b;
 		System.out.println("after adding numbers result is "+c);
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
 	
 	
